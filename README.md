@@ -17,9 +17,9 @@ Also if both games detect the controller there will be HID conflictions(I'm stil
 
 Installation(Windows):
 
-1.Place the folder somewhere on your computer
-2.Go into dist and create a split.exe shortcut.
-3.Place it on desktop and start.
+1. Place the folder somewhere on your computer
+2. Go into dist and create a split.exe shortcut.
+3. Place it on desktop and start.
 
 Usage:
 1.  Start two games make sure they both are in window mode in the setting and one of the games has controller disabled(if it even supports or detects it in settings or steam.)
