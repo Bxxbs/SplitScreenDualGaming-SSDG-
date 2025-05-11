@@ -16,6 +16,7 @@ I do notice some games like gears and battlefield making cpu and gpu hit 90 if f
 Also if both games detect the controller there will be HID conflictions(I'm still trying to find a way, hidhide didn't work.)
 
 Installation(Windows):
+
 1.Place the folder somewhere on your computer
 2.Go into dist and create a split.exe shortcut.
 3.Place it on desktop and start.
