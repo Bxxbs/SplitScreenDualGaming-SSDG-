@@ -1,7 +1,7 @@
-Intro:
+
 
                                                                   Welcome to SplitScreen Dual Gaming.
-
+Intro:
 This Applacation is for people who want to split screen two games(or more) and play with two people(or more).
 Currently this version is able two play two games simultaneously one with keyboard one with controller.
 Currentlly this is an exe applacation that was converted from python, I will also add the python(.py) file for people on linux and a proper installation to use.
@@ -14,6 +14,7 @@ This applacation can cause exessive heat especially with two games running on hi
 Worst that has happened in my personal testing is crashing and restarting or hanging and needing to be restarted; however,
 I do notice some games like gears and battlefield making cpu and gpu hit 90 if fan curves and cooling arent optimal.
 Also if both games detect the controller there will be HID conflictions(I'm still trying to find a way, hidhide didn't work.)
+Lastly, if antivirus detects this as a virus exclude it. Im trying to find a way to fix that too.(fucking windows man)
 
 Installation(Windows):
 
