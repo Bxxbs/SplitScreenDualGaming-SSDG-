@@ -2,6 +2,7 @@
 
                                                                   Welcome to SplitScreen Dual Gaming.
 Intro:
+
 This Applacation is for people who want to split screen two games(or more) and play with two people(or more).
 Currently this version is able two play two games simultaneously one with keyboard one with controller.
 Currentlly this is an exe applacation that was converted from python, I will also add the python(.py) file for people on linux and a proper installation to use.
