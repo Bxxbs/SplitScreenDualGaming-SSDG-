@@ -9,7 +9,7 @@ I have tested a few combonations like bioshock and gears and it works fine as lo
 
 Potential issues:
 
-Due to the nature of this applacations make sure your computer can handle two games at once.
+Due to the nature of this applacation make sure your computer can handle two games at once.
 This applacation can cause exessive heat especially with two games running on high settings.
 Worst that has happened in my personal testing is crashing and restarting or hanging and needing to be restarted; however,
 I do notice some games like gears and battlefield making cpu and gpu hit 90 if fan curves and cooling arent optimal.
